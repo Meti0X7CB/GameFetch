@@ -18,4 +18,5 @@ A Game overlay for nerds OvO
 
 ## Installation
 1 - Download the latest version from the [Releases](https://github.com/Meti0X7CB/GameFetch/releases) tab.
+
 2 - Make sure your game is running in borderless window (Exclusive fullscreen will not allow any overlay on top of your game).
